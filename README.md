@@ -1,3 +1,32 @@
+
+# Realtime Private Chat App
+
+• Developed a website which allows people around the world to connect and chat with each otherin real time.
+• Used Firebase authentication for all the connections.
+• Deployed the website on the GitHub server
+
+User can create an account on the platform which is enabled using firebase authentication and hence can log into its account from different devices to chat with his/her fellows.
+
+## Demo
+https://rohansharmax.github.io/chat-app/
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See https://github.com/rohansharmax/chat-app for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## Tech Stack
+
+React JS ,Bootstrap ,HTML ,CSS ,JavaScript ,Git , Firebase
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
